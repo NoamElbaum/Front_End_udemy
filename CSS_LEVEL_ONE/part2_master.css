@@ -1,0 +1,19 @@
+body {
+    background: url("pic.jpg");
+    background-repeat: repeat;
+}
+
+div {
+    background: lightseagreen;
+    border-color: red;
+    border-width: thick;
+    border-style: dotted;
+}
+
+p {
+    color: white;
+}
+
+span {
+    color: royalblue;
+}
