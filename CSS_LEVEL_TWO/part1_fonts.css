@@ -1,0 +1,14 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+#two {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5em;
+}
