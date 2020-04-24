@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+td {
+    width: 150px;
+    height: 250px;
+    border: 6px solid white;
+}
+
+table {
+    margin: auto;
+}
+
+#a {
+    background-color: #70d6ff;
+}
+
+#b {
+    background-color: #ff70a6;
+}
+
+#c {
+    background-color: #ff9770;
+}
+
+#d {
+    background-color: #ffd670;
+}
+
+#e {
+    background-color: #e9ff70;
+}
