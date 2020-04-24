@@ -1,0 +1,21 @@
+body {
+    background-color: #011627;
+    font-size: 20px;
+    color: white;
+    border: 0px;
+}
+
+.mainBox {
+    text-align: center;
+    background-color: #011627;
+    border: 50px solid #2EC4B6;
+    border-top: 0px;
+    padding: 2em;
+    padding-top: 0px;
+}
+
+#subm {
+    background-color: orange;
+    font-size: 1.5em;
+    border-radius: 20px;
+}
